@@ -1,0 +1,13 @@
+# Editor / IDE
+.vscode/
+
+# LaTeX notes (not part of the project submission)
+methodology/
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
